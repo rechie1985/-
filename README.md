@@ -9,9 +9,15 @@
 ### js
 [you don't know JS(gitlab)](https://github.com/getify/You-Dont-Know-JS)
 
-###React资料
+### React资料
 [React知乎专栏](https://zhuanlan.zhihu.com/purerender)
 [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
+
+### webpack
+[webpack使用优化](https://gold.xitu.io/entry/5692709460b25396c52cb32c)
+[CSS Modules Webpack Demo](https://github.com/css-modules/webpack-demo)
+
+
 
 ### 工具
 [CanIUse](http://caniuse.com/)
