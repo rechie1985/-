@@ -11,6 +11,7 @@
 
 ###React资料
 [React知乎专栏](https://zhuanlan.zhihu.com/purerender)
+[Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
 
 ### 工具
 [CanIUse](http://caniuse.com/)
