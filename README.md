@@ -20,6 +20,7 @@
 [Webpack傻瓜指南（二）开发和部署技巧](https://zhuanlan.zhihu.com/p/20397902)
 [Webpack中文文档](https://chenyiqiao.gitbooks.io/webpack/content/)
 [基于webpack的前端工程化开发之多页站点篇（一）](https://segmentfault.com/a/1190000004511992)
+[Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack)
 
 
 ### 工具
@@ -31,6 +32,7 @@
 
 ### hybrid相关
 [Hybrid APP架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)
+[RN](http://gold.xitu.io/entry/577f1864c4c9710066c18e56)
 
 
 ### 性能
@@ -43,3 +45,4 @@
 [H5浏览器和webview后退刷新方案](http://hzxiaosheng.bitbucket.org/work/2015/09/23/refresh-webpage-on-history-back-for-mobile-browser-and-webview.html)
 [正则表达式](http://www.jianshu.com/p/e7bb97218946)
 [nginx配置参数详细说明](http://my.oschina.net/u/2246410/blog/618798)
+[webstorm配色网站](http://color-themes.com/?view=index&layout=Generic&order=popular&search=&page=3)
